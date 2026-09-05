@@ -2,7 +2,7 @@
 // PENGATURAN WEBSITE
 // =============================
 // Ubah tanggal di bawah. Format: TAHUN-BULAN-TANGGALTJam:Menit:Detik
-const memoryDate = "2026-08-06T09:00:00";
+const memoryDate = "2027-01-01T00:01:00";
 
 // Musik akan menggunakan file "musik.mp3" di folder utama.
 // Browser biasanya tidak mengizinkan musik autoplay tanpa interaksi,
